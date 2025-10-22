@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "http-status-codes": "^2.3.0",
+    "joi": "^18.0.1",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10"
+  },
+  "name": "41-dars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sirojiddin0929/41-dars.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sirojiddin0929/41-dars/issues"
+  },
+  "homepage": "https://github.com/Sirojiddin0929/41-dars#readme"
+}
